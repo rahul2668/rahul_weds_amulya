@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdebd3"/>
+      <stop offset="1" stop-color="#f6c9a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <circle cx="300" cy="300" r="110" fill="#7b1e1e" opacity="0.85"/>
+  <path d="M110 760 C110 560 200 460 300 460 C400 460 490 560 490 760 Z" fill="#7b1e1e" opacity="0.85"/>
+  <text x="300" y="640" font-family="Georgia, serif" font-size="40" fill="#f3e0a0" text-anchor="middle">Groom Photo</text>
+  <text x="300" y="690" font-family="Georgia, serif" font-size="24" fill="#f3e0a0" text-anchor="middle">replace photo1 (groom)</text>
+</svg>
