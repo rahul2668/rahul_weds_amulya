@@ -428,6 +428,25 @@ a {
 }
 
 /* ---------- Couple ---------- */
+.couple-photo {
+  max-width: 400px;
+  margin: 1.25rem auto 0;
+}
+
+.couple-frame {
+  padding: 8px;
+  border-radius: 130px 130px 16px 16px;
+  background: linear-gradient(135deg, var(--gold-light), var(--gold), var(--gold-deep));
+  box-shadow: 0 14px 36px rgba(123, 30, 30, 0.22);
+}
+
+.couple-frame img {
+  width: 100%;
+  height: auto;
+  border-radius: 122px 122px 10px 10px;
+  background: var(--cream);
+}
+
 .couple .lead {
   max-width: 780px;
   font-family: var(--font-script);
@@ -801,3 +820,4 @@ a {
 .muhurtham-card .card-art {
   height: 140px;
 }
+

@@ -32,6 +32,9 @@ const wedding = {
     photo: '/photos/photo2.svg', // replace with '/photos/photo2.jpg'
   },
 
+  // One photo of the couple together, shown in "The Couple" section
+  couplePhoto: '/photos/couple.jpg',
+
   // Used for the countdown timer (local time, 24h format)
   dateTime: '2026-12-03T11:50:00',
   displayDate: 'Thursday, 3rd December 2026',
